@@ -1,0 +1,11 @@
+<p *ngIf="isLoading">Loading courses...</p>
+
+<div *ngIf="!isLoading">
+
+  <app-course-card
+    *ngFor="let course of courses; trackBy: trackByCourseId"
+    [course]="course"
+    appHighlight="lightblue">
+  </app-course-card>
+
+</div>
