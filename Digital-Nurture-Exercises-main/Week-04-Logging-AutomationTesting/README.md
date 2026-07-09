@@ -1,4 +1,4 @@
-# Week 4: SLF4J Logging, Lombok & Automation Testing
+# Week 4
 
 Weekly content focusing on logging diagnostics, boilerplate reduction, and automated UI/E2E test cycles.
 
