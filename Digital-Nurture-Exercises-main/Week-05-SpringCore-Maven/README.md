@@ -2,7 +2,7 @@
 
 Weekly content focusing on dependency management, the IoC Container, and Core Spring.
 
-*   **Repository URL:** https://github.com/dhairyagothi/Digital-Nurture-JavaFSE-Cognizant
+*   **Repository URL:** https://github.com/prakhar23bai10962-hash/Cognizant_digital_nurture
 
 ---
 

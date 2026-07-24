@@ -2,7 +2,7 @@
 
 Weekly content focusing on logging diagnostics, boilerplate reduction, and automated UI/E2E test cycles.
 
-*   **Repository URL:** https://github.com/dhairyagothi/Digital-Nurture-JavaFSE-Cognizant
+*   **Repository URL:** https://github.com/prakhar23bai10962-hash/Cognizant_digital_nurture
 
 ---
 

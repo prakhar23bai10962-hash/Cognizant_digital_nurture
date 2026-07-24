@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
         Order[] orders = {
-            new Order(1, "Riya", 2500),
+            new Order(1, "Prakhar", 2500),
             new Order(2, "Amit", 1200),
             new Order(3, "Neha", 3200),
             new Order(4, "Raj", 800)
